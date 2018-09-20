@@ -22,9 +22,9 @@ Here are some of the sample results:<br>
 **Image 1 to Superimpose**
 ![alt text][image3]
 **Original Image and Result of Superposition**
-![alt text][image1]
+![alt text][image1]<br>
 **Image 1 to Superimpose**
-![alt text][image4]
+![alt text][image4] <br>
 **Original Image and Result of Superposition**
 ![alt text][image2]
 
