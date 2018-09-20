@@ -13,7 +13,7 @@ In this project, we calculate the homography between a pair of images to project
 
 ## Intructions to Run
 ---
-The solution is implemented in notebook hw2.ipynb
+Run the cells in the Jupyter notebook hw2.ipynb. Instructions to install and run Jupyter notebook can be found [here](https://jupyter.org/install). 
 
 ## Result
 ---
