@@ -21,11 +21,13 @@ Instructions to install and run Jupyter notebook can be found [here](https://jup
 Here are some of the sample results:<br>
 **Image 1 to Superimpose**
 ![alt text][image3]
+---
 **Original Image and Result of Superposition**
 ![alt text][image1]<br>
 ---
 **Image 2 to Superimpose**
 ![alt text][image4] <br>
+---
 **Original Image and Result of Superposition**
 ![alt text][image2]
 
