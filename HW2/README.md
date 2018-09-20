@@ -1,4 +1,4 @@
-## Project: Project Images by Calculating Homography
+## Project: Superposition of Images by Calculating Homography
 
 ## Overview
 ---
