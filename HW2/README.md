@@ -19,7 +19,9 @@ Instructions to install and run Jupyter notebook can be found [here](https://jup
 ## Result
 ---
 Here are some of the sample results:
+Image to Superimpose
 ![alt text][image3]
+Original Image and Result of Superposition
 ![alt text][image1]
 ![alt text][image4]
 ![alt text][image2]
