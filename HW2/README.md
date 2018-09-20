@@ -9,7 +9,7 @@ In this project, we calculate the homography between a pair of images to project
 [image1]: ./write_up_images/1a_1.jpg "Image 1"
 [image2]: ./write_up_images/1c_3.jpg "Image 2"
 [image3]: ./write_up_images/Jackie.jpg "Image 3"
-[image4]: ./write_up_images/jones.png "Image 4"
+[image4]: ./write_up_images/jones.jpg "Image 4"
 
 ## Intructions to Run
 ---
@@ -19,12 +19,13 @@ Instructions to install and run Jupyter notebook can be found [here](https://jup
 ## Result
 ---
 Here are some of the sample results:<br>
-**Image1to Superimpose**
+**Image 1 to Superimpose**
 ![alt text][image3]
 **Original Image and Result of Superposition**
 ![alt text][image1]
-**Original Image and Result of Superposition**
+**Image 1 to Superimpose**
 ![alt text][image4]
+**Original Image and Result of Superposition**
 ![alt text][image2]
 
 The detailed results and discussion can be found in hw2_TejasPant.pdf 
