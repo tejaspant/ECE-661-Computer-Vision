@@ -30,5 +30,5 @@ Here are some of the sample results:<br>
 ---
 **Original Image and Result of Superposition**
 ![alt text][image2]
-
+---
 The detailed results and discussion can be found in hw2_TejasPant.pdf 
