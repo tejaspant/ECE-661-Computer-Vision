@@ -2,7 +2,7 @@
 
 ## Overview
 ---
-In this project, we calculate the homography between a pair of images and to project one image on another.
+In this project, we calculate the homography between a pair of images to project one image on another.
 
 [//]: # (Image References)
 
