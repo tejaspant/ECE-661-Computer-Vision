@@ -24,11 +24,11 @@ the overall accuracy of the image classification algorithm.
 
 ## Training Data Set
 ---
-The image classifier has been trained on 5 classes of images, Beach, Buildings, Car, Mountain and Tree. Each class has 20 images. 
+The image classifier has been trained on 5 classes of images, Beach, Buildings, Car, Mountain and Tree. Each class has 20 images. The training set images can be found in the folder training. 
 
 ## Test Data Set
 ---
-The test set has 5 images for each class of images. The training and test set can be found in imagesDatabaseHW7
+The test set has 5 images for each class of images. The training and test set can be found in the folder testing.
 
 ## Instructions to Run
 ---
@@ -63,4 +63,4 @@ Here are some of the sample results:
 **Fig. 6: Confusion matrix based on images in Test Set**
 
 The overall accuracy of the classifier is **72%** based on the confusion matrix.
-The detailed results and discussion can be found in hw7_TejasPant.pdf 
+The detailed results and discussion can be found in hw7_TejasPant.pdf. 
