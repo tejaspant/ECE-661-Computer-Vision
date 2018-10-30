@@ -46,17 +46,21 @@ Here are some of the sample results:
 
 **Fig. 2: LBP Histogram for Sample 1 in Class Building**
 
-Fig. 3: LBP Histogram for Sample 1 in Class Car
 ![alt text][image3]
 
-Fig. 4: LBP Histogram for Sample 1 in Class Mountain
+**Fig. 3: LBP Histogram for Sample 1 in Class Car**
+
 ![alt text][image4]
 
-Fig. 5: LBP Histogram for Sample 1 in Class Tree
+**Fig. 4: LBP Histogram for Sample 1 in Class Mountain**
+
 ![alt text][image5]
 
-Fig. 6: Confusion matrix based on images in Test Set
+**Fig. 5: LBP Histogram for Sample 1 in Class Tree**
+
 ![alt text][image6]
 
-The overall accuracy of the classifier is 72% based on the confusion matrix.
+**Fig. 6: Confusion matrix based on images in Test Set**
+
+The overall accuracy of the classifier is **72%** based on the confusion matrix.
 The detailed results and discussion can be found in hw7_TejasPant.pdf 
