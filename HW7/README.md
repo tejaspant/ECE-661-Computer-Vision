@@ -20,6 +20,7 @@ the overall accuracy of the image classification algorithm.
 [image3]: ./write_up_images/Class_car_ImageNum_0.png "Image 3"
 [image4]: ./write_up_images/Class_mountain_ImageNum_0.png "Image 4"
 [image5]: ./write_up_images/Class_tree_ImageNum_0.png "Image 5"
+[image6]: ./write_up_images/confusion_matrix.png "Image 6"
 
 ## Training Data Set
 ---
@@ -37,9 +38,11 @@ The solution is implemented in the code hw7_TejasPant.py.
 ---
 Here are some of the sample results:
 ![alt text][image1]
+LBP Histogram for Sample 1 in Class Beach
 ![alt text][image2]
 ![alt text][image3]
 ![alt text][image4]
 ![alt text][image5]
-
+![alt text][image6]
+The overall accuracy of the classifier is 72% based on the confusion matrix.
 The detailed results and discussion can be found in hw7_TejasPant.pdf 
