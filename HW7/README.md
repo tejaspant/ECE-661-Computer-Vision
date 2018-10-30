@@ -37,7 +37,8 @@ The solution is implemented in the code hw7_TejasPant.py.
 ## Result
 ---
 Here are some of the sample results:
-![alt text][image1 =100x20]
+![alt text][image1]
+img[alt=image1] { width: 200px; }
 *Figure 1: LBP Histogram for Sample 1 in Class Beach*
 ![alt text][image2]
 *Figure 2: LBP Histogram for Sample 1 in Class Building*
