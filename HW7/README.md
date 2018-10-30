@@ -15,11 +15,11 @@ the overall accuracy of the image classification algorithm.
 
 [//]: # (Image References)
 
-[image1]: ./write_up_images/Class_beach_ImageNum_0.jpg "Image 1"
-[image2]: ./write_up_images/Class_building_ImageNum_0.jpg "Image 2"
-[image3]: ./write_up_images/Class_car_ImageNum_0.jpg "Image 3"
-[image4]: ./write_up_images/Class_mountain_ImageNum_0.jpg "Image 4"
-[image5]: ./write_up_images/Class_tree_ImageNum_0.jpg "Image 5"
+[image1]: ./write_up_images/Class_beach_ImageNum_0.png "Image 1"
+[image2]: ./write_up_images/Class_building_ImageNum_0.png "Image 2"
+[image3]: ./write_up_images/Class_car_ImageNum_0.png "Image 3"
+[image4]: ./write_up_images/Class_mountain_ImageNum_0.png "Image 4"
+[image5]: ./write_up_images/Class_tree_ImageNum_0.png "Image 5"
 
 ## Training Data Set
 ---
@@ -36,10 +36,10 @@ The solution is implemented in the code hw7_TejasPant.py.
 ## Result
 ---
 Here are some of the sample results:
-[alt text][image1]
-[alt text][image2]
-[alt text][image3]
-[alt text][image4]
-[alt text][image5]
+![alt text][image1]
+![alt text][image2]
+![alt text][image3]
+![alt text][image4]
+![alt text][image5]
 
 The detailed results and discussion can be found in hw7_TejasPant.pdf 
