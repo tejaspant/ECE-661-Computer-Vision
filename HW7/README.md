@@ -36,10 +36,10 @@ The solution is implemented in the code hw7_TejasPant.py.
 ## Result
 ---
 Here are some of the sample results:
-![alt text][image1]
-![alt text][image2]
-![alt text][image3]
-![alt text][image4]
-![alt text][image5]
+[alt text][image1]
+[alt text][image2]
+[alt text][image3]
+[alt text][image4]
+[alt text][image5]
 
 The detailed results and discussion can be found in hw7_TejasPant.pdf 
