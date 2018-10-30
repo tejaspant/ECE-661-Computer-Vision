@@ -42,8 +42,9 @@ Here are some of the sample results:
 
 **Fig. 1: LBP Histogram for Sample 1 in Class Beach**
 
-Fig. 2: LBP Histogram for Sample 1 in Class Building
 ![alt text][image2]
+
+**Fig. 2: LBP Histogram for Sample 1 in Class Building**
 
 Fig. 3: LBP Histogram for Sample 1 in Class Car
 ![alt text][image3]
