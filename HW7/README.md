@@ -40,7 +40,7 @@ Here are some of the sample results:
 
 ![alt text][image1]
 
-**Fig. 1: LBP Histogram for Sample 1 in Class Beach**
+<\br>**Fig. 1: LBP Histogram for Sample 1 in Class Beach**
 
 ![alt text][image2]
 
