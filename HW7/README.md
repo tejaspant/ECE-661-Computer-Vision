@@ -38,18 +38,17 @@ The solution is implemented in the code hw7_TejasPant.py.
 ---
 Here are some of the sample results:
 ![alt text][image1]
-img[alt=image1] { width: 200px; }
-*Figure 1: LBP Histogram for Sample 1 in Class Beach*
+*Fig. 1: LBP Histogram for Sample 1 in Class Beach*
 ![alt text][image2]
-*Figure 2: LBP Histogram for Sample 1 in Class Building*
+*Fig. 2: LBP Histogram for Sample 1 in Class Building*
 ![alt text][image3]
-*Figure 3: LBP Histogram for Sample 1 in Class Car*
+*Fig. 3: LBP Histogram for Sample 1 in Class Car*
 ![alt text][image4]
-*Figure 4: LBP Histogram for Sample 1 in Class Mountain*
+*Fig. 4: LBP Histogram for Sample 1 in Class Mountain*
 ![alt text][image5]
-*Figure 5: LBP Histogram for Sample 1 in Class Tree*
+*Fig. 5: LBP Histogram for Sample 1 in Class Tree*
 ![alt text][image6]
-*Figure 6: Confusion matrix based on images in Test Set*
+*Fig. 6: Confusion matrix based on images in Test Set*
 
 The overall accuracy of the classifier is 72% based on the confusion matrix.
 The detailed results and discussion can be found in hw7_TejasPant.pdf 
