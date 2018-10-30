@@ -38,7 +38,7 @@ The solution is implemented in the code hw7_TejasPant.py.
 ---
 Here are some of the sample results:
 
-Fig. 1: LBP Histogram for Sample 1 in Class Beach
+<\bFig. 1: LBP Histogram for Sample 1 in Class Beach>
 ![alt text][image1]
 
 Fig. 2: LBP Histogram for Sample 1 in Class Building
