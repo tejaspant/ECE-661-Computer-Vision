@@ -2,7 +2,7 @@
 
 ## Overview
 ---
-In this project we perform image segmentation using the [Otsu's Method](https://ieeexplore.ieee.org/document/4310076). Otsu's method identifies the optimum grayscale level that separates the foreground from the background. To carry out
+In this project we perform image segmentation using the [Otsu's Method](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4310076). Otsu's method identifies the optimum grayscale level that separates the foreground from the background. To carry out
 image segmentation using Otsu's method we used two different approaches:
 
 * In the first approach, **RGB based Image Segmentation**, we apply the Otsu's method
@@ -14,9 +14,9 @@ images to get the final result.
 [image1]: ./write_up_images/light_house_rgb.jpg "Image 1"
 [image2]: ./write_up_images/lighthouse_texture.jpg "Image 2"
 [image3]: ./write_up_images/baby_rgb.jpg "Image 3"
-[image4]: ./write_up_images/baby_texture.png "Image 4"
-[image5]: ./write_up_images/ski_rgb.png "Image 5"
-[image6]: ./write_up_images/ski_texture.png "Image 6"
+[image4]: ./write_up_images/baby_texture.jpg "Image 4"
+[image5]: ./write_up_images/ski_rgb.jpg "Image 5"
+[image6]: ./write_up_images/ski_texture.jpg "Image 6"
 
 ## Instructions to Run
 ---
