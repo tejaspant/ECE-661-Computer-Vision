@@ -6,10 +6,10 @@ In this homework we look at three different methods to remove projective and aff
 from images:
 
 * Remove projective distortion with Point-to-Point Correspondence and then remove affine
-distortion by using the cos$\theta$ expression with $\theta$ = 90 deg
+distortion by using the cos\theta expression with \theta = 90 deg
 
 * Remove projective distortion with the Vanishing line method and then remove affine distortion
-by using the cos$\theta$ expression with $\theta$ = 90 deg
+by using the cos\theta expression with \theta = 90 deg
 
 * Remove projective distortion and affine distortion using a One-Step method with a dual
 degenerate conic
@@ -35,7 +35,7 @@ The solution for the Point-to-Point Correspondence and the Vanishing Line Method
 
 ## Sample Result for Removing Projective and Affine Distortion with One-Step Method
 ---
-![alt text][image1]
+![alt text][image3]
 
 
 The detailed results and discussion can be found in hw2_TejasPant.pdf 
