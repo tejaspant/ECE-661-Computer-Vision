@@ -14,6 +14,8 @@ by using the cos\theta expression with \theta = 90 deg
 * Remove projective distortion and affine distortion using a One-Step method with a dual
 degenerate conic
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" /
+
 [//]: # (Image References)
 
 [image1]: ./write_up_images/point_to_point.png "Image 1"
