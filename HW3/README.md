@@ -6,15 +6,13 @@ In this homework we look at three different methods to remove projective and aff
 from images:
 
 * Remove projective distortion with Point-to-Point Correspondence and then remove affine
-distortion by using the cos\theta expression with \theta = 90 deg
+distortion by using the cos\theta expression with $$\theta$$ = 90 deg
 
 * Remove projective distortion with the Vanishing line method and then remove affine distortion
 by using the cos\theta expression with \theta = 90 deg
 
 * Remove projective distortion and affine distortion using a One-Step method with a dual
 degenerate conic
-
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" /
 
 [//]: # (Image References)
 
