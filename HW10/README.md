@@ -23,11 +23,11 @@ trarily defined false positive rate using the cascaded Adaboost algorithm
 
 ## Dataset
 ---
-###Face Recognition Dataset: 
+### Face Recognition Dataset: 
 The dataset used for the face recognition study is the [Facepix](https://cubic.asu.edu/content/facepix-database) dataset. Here is a sample image from the dataset
 ![alt text][image1]
 
-###Car Detection Dataset: 
+### Car Detection Dataset: 
 The dataset used for the object detection study is obtained from a private entity and cannot be shared. Here is a sample image from the dataset
 
 Positive
@@ -43,14 +43,14 @@ The solution for the object detection task is implemented in hw10_TejasPant_Adab
 
 ## Result
 ---
-###Face Recogntion Study
+### Face Recogntion Study
 Mean image from the dataset
 ![alt text][image3]
 
 Comparison of Performance of PCA with LDA
 ![alt text][image2]
 
-###Object Detection Study
+### Object Detection Study
 Effect of number of stages in cascaded Adaboost classifier on false positive rate 
 ![alt text][image4]
 
