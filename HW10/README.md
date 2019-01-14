@@ -19,7 +19,7 @@ trarily defined false positive rate using the cascaded Adaboost algorithm
 [image3]: ./write_up_images/mean_image.png "Image 3"
 [image4]: ./write_up_images/fpr_during_testing.jpg "Image 4"
 [image5]: ./write_up_images/positive_car.png "Image 5"
-[image6]: ./write_up_images/negative_car.png "Image 6"
+[image6]: ./write_up_images/negative_Car.png "Image 6"
 
 ## Dataset
 ---
