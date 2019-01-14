@@ -18,8 +18,8 @@ rithm.
 [image1]: ./write_up_images/canny_edge_dataset1_image5.jpg "Image 1"
 [image2]: ./write_up_images/hough_lines_dataset1_image5.jpg "Image 2"
 [image3]: ./write_up_images/corners_dataset1_image5.jpg "Image 3"
-[image2]: ./write_up_images/reproj_dataset2_img13_on_1_woLM.jpg "Image 4"
-[image3]: ./write_up_images/reproj_dataset2_img13_on_1_withLM.jpg "Image 5"
+[image4]: ./write_up_images/reproj_dataset2_img13_on_1_woLM.jpg "Image 4"
+[image5]: ./write_up_images/reproj_dataset2_img13_on_1_withLM.jpg "Image 5"
 
 ## Dataset
 ---
@@ -32,6 +32,7 @@ The solution is implemented in the code hw7_TejasPant.m.
 ## Result
 ---
 Here are some of the sample results:
+
 Detected Edges using Canny Edge Detector
 ![alt text][image1]
 Lines Identified using Hough Transform
@@ -40,6 +41,7 @@ Corner Points
 ![alt text][image3]
 
 The effect of refining the intrinsic and extrinsic parameters using the Levenberg-Marquardt algorithm can be seen here where we reproject the corners from Images 13 in Dataset 2 into Image 1 of Dataset 2
+
 Without Levenberg-Marquardt refinement
 ![alt text][image4]
 
