@@ -43,7 +43,7 @@ The solution for the object detection task is implemented in hw10_TejasPant_Adab
 
 ## Result
 ---
-### Face Recogntion Study
+### Face Recognition Study
 Mean image from the dataset
 ![alt text][image3]
 
