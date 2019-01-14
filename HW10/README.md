@@ -4,8 +4,7 @@
 ---
 In this project we perform two tasks. In the first task we perform face recognition in the following
 manner,
-* In the first step we carry out a Principal Component Analysis (PCA) and Linear Discrimi-
-nant Analysis (LDA) of the images to transform the high-dimensional image data to a low-
+* In the first step we carry out a Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) of the images to transform the high-dimensional image data to a low-
 dimensional manifold
 * Next, we use a nearest-neighbor classifier to classify the face data
 
