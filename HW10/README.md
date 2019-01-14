@@ -28,7 +28,7 @@ The dataset used for the face recognition study is the [Facepix](https://cubic.a
 ![alt text][image1]
 
 ### Car Detection Dataset: 
-The dataset used for the object detection study is obtained from a private entity and cannot be shared. Here is a sample image from the dataset
+The dataset used for the object detection study is obtained from a private entity and cannot be shared. Here is a sample image from the dataset (Resolution = 40 x 20)
 
 Positive
 ![alt text][image5]
