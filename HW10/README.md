@@ -8,8 +8,7 @@ manner,
 dimensional manifold
 * Next, we use a nearest-neighbor classifier to classify the face data
 
-In the second task of this project we design an object detector (car detector) with an arbi-
-trarily defined false positive rate using the cascaded Adaboost algorithm
+In the second task of this project we design an object detector (car detector) with an arbitrarily defined false positive rate using the cascaded Adaboost algorithm
 
 [//]: # (Image References)
 
