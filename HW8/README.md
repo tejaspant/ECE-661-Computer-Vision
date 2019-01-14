@@ -27,7 +27,7 @@ The camera has been calibrated for two data sets of images which can be found in
 
 ## Instructions to Run
 ---
-The solution is implemented in the code hw7_TejasPant.m.
+The solution is implemented in the code hw8_TejasPant.m.
 
 ## Result
 ---
