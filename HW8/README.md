@@ -32,8 +32,11 @@ The solution is implemented in the code hw7_TejasPant.m.
 ## Result
 ---
 Here are some of the sample results:
+Detected Edges using Canny Edge Detector
 ![alt text][image1]
+Lines Identified using Hough Transform
 ![alt text][image2]
+Corner Points
 ![alt text][image3]
 
 The effect of refining the intrinsic and extrinsic parameters using the Levenberg-Marquardt algorithm can be seen here where we reproject the corners from Images 13 in Dataset 2 into Image 1 of Dataset 2
